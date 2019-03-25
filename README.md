@@ -1,1 +1,1 @@
-# python_training course
+# python_training course description
